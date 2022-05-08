@@ -3,11 +3,11 @@ This repository is a collection of console commands for Mindustry's [DeltaNedas/
 why?
 because atleast half of the playerbase dont know how to use it,including me
 
-## [Player](https://github.com/MeFinity/YAPR/blob/pain/DevModeHelp/player.md)
+## [Player](https://github.com/MeFinity/YAPR/blob/DMH/player.md)
 
-## [Unit](https://github.com/MeFinity/YAPR/blob/pain/DevModeHelp/unit.md)
+## [Unit](https://github.com/MeFinity/YAPR/blob/DMH/unit.md)
 
-## [Block](https://github.com/MeFinity/YAPR/blob/pain/DevModeHelp/block.md)
+## [Block](https://github.com/MeFinity/YAPR/blob/DMH/block.md)
 
 # Also:
 ```
