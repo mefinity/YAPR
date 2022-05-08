@@ -4,13 +4,14 @@ So,you want to search sauces ay?
 good for you this is a documentation on how to sauce search
 
 ## Categories
-[Art Websites](https://github.com/MeFinity/YAPR/blob/pain/101/sauce101.md#art-websites)
 
 [Neutral Websites](https://github.com/MeFinity/YAPR/blob/pain/101/sauce101.md#neutral-websites)
 
+[Art Websites](https://github.com/MeFinity/YAPR/blob/pain/101/sauce101.md#art-websites)
+
 [Real Life Websites](https://github.com/MeFinity/YAPR/blob/pain/101/sauce101.md#real-life-websites)
 
-# Neutral-Website
+# Neutral Websites
 this category is for neutral reverse searching,for art and real life images
 
 ### [Google](http://images.google.com/)
@@ -35,7 +36,7 @@ Yandex is a technology company that builds intelligent products and services pow
 Use [search?rpt=imageview&url=](https://yandex.com/images/search?rpt=imageview&url=) then add the url at the end,to easily search
 
 
-# Art-Websites
+# Art Websites
 this category is for websites that searches for art/anime
 
 ### [SauceNAO](https://saucenao.com)
@@ -55,7 +56,7 @@ Multi-service image search
 ### [E-Hentai](https://e-hentai.org/)
 "Select a file to upload, then hit File Search. All public galleries containing this exact file will be displayed."
 
-# Real-Life-Websites
+# Real Life Websites
 
 
 ### [3D-IQDB](https://3d.iqdb.org/)
