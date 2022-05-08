@@ -13,6 +13,12 @@ good for you this is a documentation on how to sauce search
 # Neutral-Website
 this category is for neutral reverse searching,for art and real life images
 
+### [Google](http://images.google.com/)
+Search the world's information, including webpages, images, videos and more.
+
+#### Tip!
+Use [searchbyimage?&image_url=](https://www.google.com/searchbyimage?&image_url=) then add the url at the end,to easily search
+
 ### [TinEye](https://tineye.com)
 TinEye is an image search and recognition company.
 
@@ -21,6 +27,7 @@ Karma Decay indexes only Reddit.com. This specialization allows Karma Decay to o
 
 ### [ImgOps](https://imgops.com)
 ImgOps is a meta-tool
+
 ### [Yandex](https://yandex.com/images)
 Yandex is a technology company that builds intelligent products and services powered by machine learning.
 
@@ -45,6 +52,9 @@ Multi-service image search
 
 `i cant understand the language lol`
 
+### [E-Hentai](https://e-hentai.org/)
+"Select a file to upload, then hit File Search. All public galleries containing this exact file will be displayed."
+
 # Real-Life-Websites
 
 
@@ -52,3 +62,13 @@ Multi-service image search
 Multi-service image search
 
 ### [Bing](http://images.bing.com/)
+Bing’s “Visual Search”, found at images.bing.com, is very easy to use, and offers a few interesting features not found elsewhere.
+
+### [Baidu](http://image.baidu.com/)
+"Must have for researching asians"
+
+### [PimEyes](https://pimeyes.com)
+Check which websites publish photos of you,Face Search Engine & Reverse Image Search.
+
+### [ScamSearch](https://scamsearch.io/#anchorCeckNow)
+Find Scammers by their Fake Identity.
