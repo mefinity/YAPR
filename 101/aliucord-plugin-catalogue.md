@@ -1,9 +1,11 @@
 # Aliucord Plugins
-### in a neat little list
+in a neat little list
 
-# Lists
-### • [Aliucord Basics]()
-### • [Appearance]()
+## Lists
+ • [Aliucord Basics](https://github.com/MeFinity/YAPR/edit/pain/101/aliucord-plugin-catalogue.md#aliucord-basics)
+ • [Appearance](https://github.com/MeFinity/YAPR/edit/pain/101/aliucord-plugin-catalogue.md#appearance)
+
+
 
 ## Aliucord Basics
 
@@ -13,9 +15,10 @@
 
 #### [DedicatedPluginSettings](https://github.com/Vendicated/AliucordPlugins/blob/builds/DedicatedPluginSettings.zip?raw=true) - Dedicated plugin settings on the main settings screen, similar to Powercord
 
-#### [PluginRepo]() -
+#### [PluginRepo](https://github.com/mantikafasi/AliucordPlugins/blob/builds/PluginRepo.zip?raw=true) - Install Plugins Easily
 
-#### [ThemeRepo]() -
+#### [ThemeRepo](https://github.com/mantikafasi/AliucordPlugins/blob/builds/ThemeRepo.zip?raw=true) - Theme Repo
+
 
 ## Appearance
 
