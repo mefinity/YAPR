@@ -47,6 +47,10 @@ Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 
 #### [BlockTheSpot](https://github.com/mrpond/BlockTheSpot)<img src="https://img.icons8.com/color/48/000000/windows-10.png"  width="20" height="20"/>
 Video, audio & banner adblock/skip for Spotify
+
+#### [SpotX](https://github.com/amd64fox/SpotX)<img src="https://img.icons8.com/color/48/000000/windows-10.png"  width="20" height="20"/>
+Blocking ads and updates for the desktop version of Spotify, disabling podcasts and something else.
+
 </details>
 
 <details><summary><h3>Mobile</h3></summary>
