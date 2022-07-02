@@ -14,7 +14,8 @@ This is a random repo for random stuff
 
 ## 101
 
-[Sauce Searching](https://github.com/MeFinity/YAPR/blob/pain/101/sauce101.md)
+[Sauce Searching](101/sauce101.md)
+[Modifee](101/modifee.md)
 
 
 
