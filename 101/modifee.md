@@ -31,7 +31,7 @@ GooseMod is a new, store-driven Discord mod.
 #### [OpenAsar](https://github.com/GooseMod/OpenAsar)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/linux.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/>
 Open-source alternative of Discord desktop's app.asar
 
-#### [Cumcord](https://github.com/Cumcord/Cumcord)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/linux.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/>
+#### [Cumcord](https://github.com/Cumcord/Cumcord)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/linux.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/chromium.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/firefox.png" width="20" height="20"/>
 A Discord client mod for your Discord client mod. 
 
 </details>
