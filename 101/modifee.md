@@ -57,6 +57,9 @@ Custom Discord Rich Presence Manager for Windows
 
 #### [PreMiD](https://github.com/PreMiD/PreMiD)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/linux.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/chromium.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/firefox.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/safari.png" width="25" height="25"/>
  Your Rich Presence for web services!
+ 
+#### [CustomDiscordRPC](https://github.com/shotav/CustomDiscordRPC)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/>
+Customizable Discord Rich Presence Client for Windows.
 
  </details>
 
@@ -79,6 +82,9 @@ Blocking ads and updates for the desktop version of Spotify, disabling podcasts 
  
 #### [Spotify Adblock](https://github.com/abba23/spotify-adblock)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/linux.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/>
  Adblocker for Spotify
+ 
+#### [Unspotify](https://git.tcp.direct/dg/Unspotify)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/>
+ Unspotify is a project that removes advertising, restrictions in the Spotify client on Windows that exist if you do not have a premium.
 
 </details>
 
@@ -111,6 +117,12 @@ Kotlin Multiplatform Music Downloader
  
 #### [Exportify](https://github.com/watsonbox/exportify)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/chromium.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/firefox.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/safari.png" width="25" height="25"/>
 Export/Backup Spotify playlists using the Web API
+ 
+ #### [Soggfy](https://github.com/Rafiuth/Soggfy)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/>
+SpotifyOggDumper
+ 
+#### [Spytify](https://github.com/jwallet/spy-spotify/)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/>
+ 🎤 Records Spotify to mp3 without ads and adds media tags to the files 🎵
 
  </details>
 
