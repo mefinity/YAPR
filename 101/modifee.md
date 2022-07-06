@@ -85,6 +85,12 @@ Blocking ads and updates for the desktop version of Spotify, disabling podcasts 
  
 #### [Unspotify](https://git.tcp.direct/dg/Unspotify)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/>
  Unspotify is a project that removes advertising, restrictions in the Spotify client on Windows that exist if you do not have a premium.
+ 
+#### [Spotify Customizer](https://github.com/Darkempire78/Spotify-Customizer)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/chromium.png" width="20" height="20"/>
+Chrome extension to customize Spotify web client (themes, lyrics, ...)
+ 
+#### [Spotishush](https://github.com/guihkx/spotishush)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/firefox.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/chromium.png" width="20" height="20"/>
+🔇 Mutes audio ads on Spotify
 
 </details>
 
@@ -145,6 +151,15 @@ Chrome extension to return youtube dislikes
 
 #### [ImprovedTube](https://github.com/code-for-charity/YouTube-Extension)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/chromium.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/firefox.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/safari.png" width="25" height="25"/>
  YouTube Extension
+ 
+#### [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/linux.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/>
+A tool for creating styled YouTube subtitles
+ 
+#### [LiveTL](https://github.com/LiveTL/LiveTL)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/firefox.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/chromium.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/android.png" width="20" height="15"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/>
+Get live translations for YouTube streams, crowdsourced from multilingual viewers!
+ 
+#### [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/chromium.png" width="20" height="20"/>
+Chrome extension for adding external subtitles to a youtube video
 
 </details>
 
