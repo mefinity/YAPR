@@ -3,6 +3,8 @@
 
 > NOTE:This is not an *alternatives* list,these are just trusted modifiers for pre-existing apps
 
+> WARNING: This repository is not responsible for infecting your device.
+
 <details><summary><h2> LIST</h2></summary>
 
 * [Discord](#discord)
@@ -33,6 +35,9 @@ Open-source alternative of Discord desktop's app.asar
 
 #### [Cumcord](https://github.com/Cumcord/Cumcord)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/linux.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/chromium.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/firefox.png" width="20" height="20"/>
 A Discord client mod for your Discord client mod. 
+ 
+#### [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/linux.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/>
+ Adds custom CSS support to Discord.
 
 </details>
 
@@ -44,6 +49,16 @@ A modification for the Discord Android App
 #### [Enmity](https://github.com/enmity-mod/enmity)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/>
 The power of addons, all in your hand.
 </details>
+
+<details><summary><h3>Miscellaneous</h3></summary>
+
+#### [CustomRP](https://github.com/maximmax42/Discord-CustomRP)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/>
+Custom Discord Rich Presence Manager for Windows
+
+#### [PreMiD](https://github.com/PreMiD/PreMiD)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/linux.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/chromium.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/firefox.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/safari.png" width="25" height="25"/>
+ Your Rich Presence for web services!
+
+ </details>
 
 # Spotify
 Spotify is a proprietary Swedish audio streaming and media services provider
@@ -58,6 +73,12 @@ Video, audio & banner adblock/skip for Spotify
 
 #### [SpotX](https://github.com/amd64fox/SpotX)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/>
 Blocking ads and updates for the desktop version of Spotify, disabling podcasts and something else.
+ 
+ #### [Spotify Adblock macOS](https://github.com/r1olo/spotify-adblock-macos)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/>
+ Spotify Adblocker for macOS
+ 
+#### [Spotify Adblock](https://github.com/abba23/spotify-adblock)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/linux.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/>
+ Adblocker for Spotify
 
 </details>
 
@@ -65,8 +86,33 @@ Blocking ads and updates for the desktop version of Spotify, disabling podcasts 
 
 #### [xManager](https://github.com/xManager-v2/xManager-Spotify)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/android.png" width="20" height="15"/>
 An android application where you can manage and install all versions of the spotify app.
+ 
+#### [Spotify++](https://spotify.sethusenthil.com)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/> **NOT OPEN SOURCE**
+Streaming licensed music service in high quality with a partially hacked premium subscription.
 
 </details>
+
+<details><summary><h3>Miscellaneous</h3></summary>
+
+#### [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/>
+ A Spotify Ad Blocker for Windows
+ 
+ #### [CLSpotify](https://github.com/agent255/clspotify)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/>
+Spotify song downloader without injecting into the windows client
+ 
+#### [Spotify Downloader](https://github.com/spotDL/spotify-downloader)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/linux.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/>
+Download your Spotify playlists and songs
+
+#### [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/linux.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/android.png" width="20" height="15"/>
+Kotlin Multiplatform Music Downloader
+ 
+#### [LyricsX](https://github.com/ddddxxx/LyricsX)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/linux.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/>
+🎶 Ultimate lyrics app for macOS.
+ 
+#### [Exportify](https://github.com/watsonbox/exportify)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/chromium.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/firefox.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/safari.png" width="25" height="25"/>
+Export/Backup Spotify playlists using the Web API
+
+ </details>
 
 # Youtube
 YouTube is an American online video sharing and social media platform
@@ -94,6 +140,16 @@ Chrome extension to return youtube dislikes
 
 #### [ReVanced](https://github.com/revanced)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/android.png" width="20" height="15"/>
 Continuing the legacy of Vanced
+
+</details>
+
+<details><summary><h3>Miscellaneous</h3></summary>
+
+#### [youtube-dl](https://github.com/ytdl-org/youtube-dl)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/linux.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/>
+Command-line program to download videos
+
+#### [yt-dlp](https://github.com/yt-dlp/yt-dlp)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/windows.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/linux.png" width="20" height="20"/><img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/apple.png" width="17" height="20"/>
+A youtube-dl fork with additional features and fixes
 
 </details>
 
@@ -179,7 +235,7 @@ A Safari App Extension that makes Reddit suck just a little bit less on Safari 1
  
 <details><summary><h3>Mobile</h3></summary>
  
-#### [RedditVanced](https://github.com/RedditVanced/AmuletApp)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/android.png" width="20" height="15"/>
+#### [AmuletApp](https://github.com/RedditVanced/AmuletApp)<img src="https://raw.githubusercontent.com/MeFinity/YAPR/pain/logo/android.png" width="20" height="15"/>
  A modified reddit app for android
  
 </details>
