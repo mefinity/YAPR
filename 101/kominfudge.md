@@ -5,9 +5,11 @@
 
 ### Navigasi
 
-- Easy Unblocker choices
+- [Top Picks](#top-picks)
 
-- Memilih ISP yang tidak ketat
+- [Memilih ISP yang tidak ketat](#memilih-isp-yang-tidak-ketat)
+
+- Memilih VPN yang aman
 
 - Cara mengganti DNS
   - Windows
@@ -20,4 +22,25 @@
 
 - Cara unblock memakai Filehost
 
-- 
+## Top Picks
+
+DNS Based Unblocking: [1.1.1.1](https://1.1.1.1)
+
+DPI Based Unblocking: [PowerTunnel](https://github.com/krlvm/PowerTunnel)
+
+Filehost based Unblocking: [bebasid](https://github.com/bebasid/bebasid)
+
+VPN Aman: [Windscribe](https://windscribe.com)
+
+## Memilih ISP yang tidak KETAT
+> Ambil ini dengan sedikit garam,semua ISP akan ganti cara blokingnya
+
+kominfudge main roadmap:
+Navigasi: √
+Top picks: √
+ISP: •
+DNS: •
+DPI: •
+Filehost: •
+VPN: •
+kredit: •
