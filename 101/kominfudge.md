@@ -36,27 +36,27 @@ VPN: [Windscribe](https://windscribe.com)
 ISP adalah provider Internetmu,list ini akan buat kamu lebih tau bagaimana ISP² Indonesia memblokir
 > Ambil ini dengan sedikit garam,semua ISP akan ganti cara blokingnya
 
-| Nama | Blokir memakai |
-| :---: | :---: |
-| Indihome | DPI + DNS Nasional |
-| CBN | DNS |
-| Biznet | DNS Nasional |
-| MyRepublic | DNS Nasional |
-| FirstMedia | DNS Nasional |
-| Megavision | DNS Nasional |
-| MNC | DNS |
-| PT Remala Abadi | DNS |
-| PT iForte Global internet | DNS |
-| lconnect PLN | DPI |
-| Telkomsel | DPI + DNS Nasional |
-| XL | DPI + DNS Nasional |
-| 3 | DPI + DNS Nasional |
-| Indosat | DPI |
-| Smartfren | DPI + DNS Nasional |
-| PT Cipta Informatika Cemeriang | DNS |
-| Oxygen | DNS Nasional |
-| Astinet | DPI + DNS Nasional |
-| Lintasarta | DNS Nasional |
+| Nama | Pemblokiran menggunakan DNS | Pemblokiran menggunakan DPI |
+| :---: | :---: | :---: |
+| Indihome | DNS Nasional | Ya |
+| CBN | DNS | Tidak |
+| Biznet | DNS Nasional | Tidak |
+| MyRepublic | DNS Nasional | Tidak |
+| FirstMedia | DNS Nasional | Tidak |
+| Megavision | DNS Nasional | Tidak |
+| MNC | DNS | Tidak |
+| PT Remala Abadi | DNS | Tidak |
+| PT iForte Global internet | DNS | Tidak |
+| lconnect PLN | Tidak | Ya |
+| Telkomsel | DNS Nasional | Ya |
+| XL | DNS Nasional | Ya |
+| 3 | DNS Nasional | Ya |
+| Indosat | Tidak | Ya |
+| Smartfren | DNS Nasional | Ya |
+| PT Cipta Informatika Cemeriang | DNS | Tidak |
+| Oxygen | DNS Nasional | Tidak |
+| Astinet | DNS Nasional | Ya |
+| Lintasarta | DNS Nasional | Tidak |
 
 kominfudge main roadmap:
 Navigasi: √
