@@ -5,7 +5,7 @@
 
 ### Navigasi
 
-- [Top Picks](#top-picks)
+- [Pilihan Tertinggi](#pilihan-tertinggi)
 
 - [Memilih ISP yang tidak ketat](#memilih-isp-yang-tidak-ketat)
 
@@ -18,22 +18,45 @@
   - Android
   - iOS
 
-- Cara unblock dengan menghilangkan DPI
+- Cara unblok dengan menghilangkan DPI
 
-- Cara unblock memakai Filehost
+- Cara unblok memakai Filehost
 
-## Top Picks
+## Pilihan Tertinggi
 
-DNS Based Unblocking: [1.1.1.1](https://1.1.1.1)
+Unbloking dengan DNS: [1.1.1.1](https://1.1.1.1)
 
-DPI Based Unblocking: [PowerTunnel](https://github.com/krlvm/PowerTunnel)
+Unbloking dengan DPI: [PowerTunnel](https://github.com/krlvm/PowerTunnel)
 
-Filehost based Unblocking: [bebasid](https://github.com/bebasid/bebasid)
+Unbloking dengan Filehost: [bebasid](https://github.com/bebasid/bebasid)
 
-VPN Aman: [Windscribe](https://windscribe.com)
+VPN: [Windscribe](https://windscribe.com)
 
 ## Memilih ISP yang tidak KETAT
+ISP adalah provider Internetmu,list ini akan buat kamu lebih tau bagaimana ISP² Indonesia memblokir
 > Ambil ini dengan sedikit garam,semua ISP akan ganti cara blokingnya
+
+| Nama | Blokir memakai |
+| :---: | :---: |
+| Indihome | DPI + DNS Nasional |
+| CBN | DNS |
+| Biznet | DNS Nasional |
+| MyRepublic | DNS Nasional |
+| FirstMedia | DNS Nasional |
+| Megavision | DNS Nasional |
+| MNC | DNS |
+| PT Remala Abadi | DNS |
+| PT iForte Global internet | DNS |
+| lconnect PLN | DPI |
+| Telkomsel | DPI + DNS Nasional |
+| XL | DPI + DNS Nasional |
+| 3 | DPI + DNS Nasional |
+| Indosat | DPI |
+| Smartfren | DPI + DNS Nasional |
+| PT Cipta Informatika Cemeriang | DNS |
+| Oxygen | DNS |
+| Astinet | DNS |
+| Lintasarta | DNS |
 
 kominfudge main roadmap:
 Navigasi: √
@@ -43,4 +66,4 @@ DNS: •
 DPI: •
 Filehost: •
 VPN: •
-kredit: •
+kredit: • (Kazuhot)
