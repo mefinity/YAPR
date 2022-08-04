@@ -54,14 +54,14 @@ ISP adalah provider Internetmu,list ini akan buat kamu lebih tau bagaimana ISP²
 | Indosat | DPI |
 | Smartfren | DPI + DNS Nasional |
 | PT Cipta Informatika Cemeriang | DNS |
-| Oxygen | DNS |
-| Astinet | DNS |
-| Lintasarta | DNS |
+| Oxygen | DNS Nasional |
+| Astinet | DPI + DNS Nasional |
+| Lintasarta | DNS Nasional |
 
 kominfudge main roadmap:
 Navigasi: √
 Top picks: √
-ISP: •
+ISP: √
 DNS: •
 DPI: •
 Filehost: •
