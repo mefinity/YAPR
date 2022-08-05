@@ -9,14 +9,11 @@
 
 - [Memilih ISP yang tidak ketat](#memilih-isp-yang-tidak-ketat)
 
-- Memilih VPN yang aman
+- [Memilih VPN yang aman](#memilih-vpn-yang-aman)
 
-- Cara mengganti DNS
-  - Windows
-  - Linux
-  - macOS
-  - Android
-  - iOS
+- [Memilih DNS yang tepat](#memilih-dns-yang-tepat)
+  - Aplikasi² DNS
+  - Cara mengganti DNS
 
 - Cara unblok dengan menghilangkan DPI
 
@@ -58,6 +55,23 @@ ISP adalah provider Internetmu,list ini akan buat kamu lebih tau bagaimana ISP²
 | Astinet | DNS Nasional | Ya |
 | Lintasarta | DNS Nasional | Tidak |
 
+## Memilih VPN yang aman
+Ah,Virtual Private Network,cara yang tersenang untuk melewati blok
+
+*Tapi* jangan pergi ke Playstore dan download VPN yang gak aman!
+Nih,coba liat VPN yang kamu suka di list ini
+
+| Nama | Positif | Negatif | Server |
+| :---: | :---: | :---: | :---: |
+| [Mullvad](https://mullvad.net/) | VPN Berbayar yang aman | Berbayar | 867 |
+| [ProtonVPN](https://protonvpn.com) | VPN "gratis" yang "aman" | Tidak ada Split-tunneling di sub gratis | 100 |
+| [Windscribe](https://windscribe.com/) | Ada Split-tunneling & banyak fitur lainnya | 15GB per bulan dan [ini](https://arstechnica.com/gadgets/2021/07/vpn-servers-seized-by-ukrainian-authorities-werent-encrypted) | ~15 |
+| [IVPN](https://ivpn.net) | VPN yang fokusnya itu privasi | Berbayar | 77 |
+| [OpenVPN](https://openvpn.net) | Open source | Disediakan oleh individual | ? |
+
+## Memilih DNS yang tepat
+coming soon
+
 kominfudge main roadmap:
 Navigasi: √
 Top picks: √
@@ -65,5 +79,5 @@ ISP: √
 DNS: •
 DPI: •
 Filehost: •
-VPN: •
+VPN: √
 kredit: • (Kazuhot)
