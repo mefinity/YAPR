@@ -25,7 +25,7 @@ Unbloking dengan DNS: [1.1.1.1](https://1.1.1.1)
 
 Unbloking dengan DPI: [PowerTunnel](https://github.com/krlvm/PowerTunnel)
 
-Unbloking dengan Filehost: [bebasid](https://github.com/bebasid/bebasid)
+Unbloking dengan Filehost: [bebasid](https://bebasid.com)
 
 VPN: [Windscribe](https://windscribe.com)
 
@@ -81,16 +81,38 @@ Nih,list DNS yang bisa dipakai
 | BlahDNS | `45.91.92.121`  | X | `2a0e:dc0:6:23::2` | X | `doh-ch.blahdns.com/dns-query` | `dot-ch.blahdns.com` |
 | [RethinkDNS](https://www.rethinkdns.com/configure) | ? | ? | ? | ? | ? | ? |
 | NextDNS | `45.90.28.233` | `45.90.30.233` | `2a07:a8c0::c1:15a7` | `2a07:a8c1::c1:15a7` | `dns.nextdns.io/c115a7` | `c115a7.dns.nextdns.io` |
+| LibreDNS | `116.202.176.26` | X | X | X | `doh.libredns.gr/dns-query`  | `dot.libredns.gr` |
 
 ## Aplikasi-Aplikasi DNS
-coming sooon
+Aplikasi² DNS ini bisa buat memakai DNS lebih senang
 
->kominfudge main roadmap:
+1.[Nebulo](https://nebulo.app) [Android]
+>Aplikasi untuk mengganti DNS dengan mudah
+
+2.[DNSCloak](https://apps.apple.com/app/id1452162351) [iOS]
+>Aplikasi untuk mengganti DNS dan mengatur dnscrypt dengan mudah
+
+3.[DNSCrypt](https://dnscrypt.info) [Windows,macOS,Linux]
+>DNS untuk selfhost sendiri
+
+4.[SimpleDNSCrypt](https://simplednscrypt.org) [Windows]
+>Untuk yang males,ini aplikasi penginstalan DNSCrypt dengan senang
+
+5.[DNS Profile Creator](https://dns.notjakob.com/tool.html) [Browser]
+>Cara membuat mobileconfig Apple dengan senang
+
+6.[YogaDNS](https://yogadns.com) [Windows]
+>Client DNS untuk Windows
+
+7.[RethinkDNS](https://rethinkdns.com) [Android]
+>Aplikasi untuk mengganti DNS dengan mudah...lagi
+
+### kominfudge main roadmap:
 - [x] Navigasi: Change might happen
 - [x] Top picks
 - [x] ISP
-- [x] DNS
+- [ ] DNS: Partial
 - [ ] DPI
 - [ ] Filehost
 - [x] VPN
-- [ ] kredit: Kazuhot,lepz0r,Redacted for Privacy,PrivacytoolsIO
+- [ ] kredit: Kazuhot,lepz0r,Redacted for Privacy,PrivacytoolsIO,A\ndreas\Ding 🇺🇦🇷🇺
