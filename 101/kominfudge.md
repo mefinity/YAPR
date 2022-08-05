@@ -13,7 +13,7 @@
 
 - [Memilih DNS yang tepat](#memilih-dns-yang-tepat)
   - [Aplikasi² DNS](#aplikasi-aplikasi-dns)
-  - Cara mengganti DNS
+  - [Cara mengganti DNS](#cara-mengganti-dns)
 
 - Cara unblok dengan menghilangkan DPI
 
@@ -107,11 +107,68 @@ Aplikasi² DNS ini bisa buat memakai DNS lebih senang
 7.[RethinkDNS](https://rethinkdns.com) [Android]
 >Aplikasi untuk mengganti DNS dengan mudah...lagi
 
+## Cara mengganti DNS
+Nah,tu udah ada List DNS,gimana makenya?
+
+<details><summary><h3>Di Android</h3></summary>
+1.Settings>Other Wireless Connections>Private DNS
+
+2.Masukkan [hostname dns](#memilih-dns-yang-tepat) dan pencet Save
+</details>
+
+<details><summary><h3>Di iOS</h3></summary>
+
+1.Settings>Wi-Fi>*wifi*
+
+2.Ketuk ikon (i)
+
+3.Ganti IP Adress jadi Static dan masukkan [hostname dns](#memilih-dns-yang-tepat) di kolom DNS
+</details>
+
+<details><summary><h3>Di Windows</h3></summary>
+1.Control Panel>Network and Internet>Network and Sharing Center>Connections>Properties
+
+2.Pencet Internet Protocol Version 4 (TCP/IPv4) 2 kali
+
+3.Ganti "Obtain DNS server address automatically" ke "Use the following DNS server addresses"
+
+4.Masukkan [hostname dns](#memilih-dns-yang-tepat) di kolom DNS dan pencet Ok
+</details>
+
+<details><summary><h3>Di macOS</h3></summary>
+1.System Preferences>Network>Wi-Fi>Advanced>DNS
+
+2.Pencet tombol “+” dan masukkan [hostname dns](#memilih-dns-yang-tepat) di kolom DNS,pencet Ok dan Apply
+</details>
+
+<details><summary><h3>Di Linux</h3></summary>
+1.Buka Terminal
+
+2.nano /etc/resolv.conf
+
+3.
+>nameserver [hostname dns](#memilih-dns-yang-tepat)
+
+>nameserver [hostname dns](#memilih-dns-yang-tepat)
+</details>
+
+<details><summary><h3>Di Chromium</h3></summary>
+1.Settings>Privacy and Security
+  
+2.Masukin [hostname dns](#memilih-dns-yang-tepat) di kolom DNS
+</details>
+
+<details><summary><h3>Di Firefox</h3></summary>
+1.Settings>Network Settings
+  
+2.Masukin [hostname dns](#memilih-dns-yang-tepat) di kolom DNS
+</details>
+
 ### kominfudge main roadmap:
 - [x] Navigasi: Change might happen
 - [x] Top picks
 - [x] ISP
-- [ ] DNS: Partial
+- [x] DNS
 - [ ] DPI
 - [ ] Filehost
 - [x] VPN
