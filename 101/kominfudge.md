@@ -12,7 +12,7 @@
 - [Memilih VPN yang aman](#memilih-vpn-yang-aman)
 
 - [Memilih DNS yang tepat](#memilih-dns-yang-tepat)
-  - Aplikasi² DNS
+  - [Aplikasi² DNS](#aplikasi-aplikasi-dns)
   - Cara mengganti DNS
 
 - Cara unblok dengan menghilangkan DPI
@@ -70,14 +70,27 @@ Nih,coba liat VPN yang kamu suka di list ini
 | [OpenVPN](https://openvpn.net) | Open source | Disediakan oleh individual | ? |
 
 ## Memilih DNS yang tepat
-coming soon
+Nih,list DNS yang bisa dipakai
 
-kominfudge main roadmap:
-Navigasi: √
-Top picks: √
-ISP: √
-DNS: •
-DPI: •
-Filehost: •
-VPN: √
-kredit: • (Kazuhot)
+| Nama | IPv4 | IPv4 2 | IPv6 | IPv6 2 | DoH | DoT |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Cloudflare DNS | `1.1.1.1` | X | X | X | `cloudflare-dns.com/dns-query`  | `1dot1dot1dot1.cloudflare-dns.com` |
+| Google DNS | `8.8.8.8` | `8.8.4.4` | `2001:4860:4860::8888` | `2001:4860:4860::8844` | `dns.google/dns-query` | `dns.google` |
+| Quad9 | `9.9.9.9` | `149.112.112.112` | `2620:fe::fe` | `2620:fe::9` | `dns.quad9.net/dns-query` | `tls://dns.quad9.net` |
+| [AhaDNS](https://blitz-setup.ahadns.com) | ? | ? | ? | ? | ? | ? |
+| BlahDNS | `45.91.92.121`  | X | `2a0e:dc0:6:23::2` | X | `doh-ch.blahdns.com/dns-query` | `dot-ch.blahdns.com` |
+| [RethinkDNS](https://www.rethinkdns.com/configure) | ? | ? | ? | ? | ? | ? |
+| NextDNS | `45.90.28.233` | `45.90.30.233` | `2a07:a8c0::c1:15a7` | `2a07:a8c1::c1:15a7` | `dns.nextdns.io/c115a7` | `c115a7.dns.nextdns.io` |
+
+## Aplikasi-Aplikasi DNS
+coming sooon
+
+>kominfudge main roadmap:
+- [x] Navigasi: Change might happen
+- [x] Top picks
+- [x] ISP
+- [x] DNS
+- [ ] DPI
+- [ ] Filehost
+- [x] VPN
+- [ ] kredit: Kazuhot,lepz0r,Redacted for Privacy,PrivacytoolsIO
