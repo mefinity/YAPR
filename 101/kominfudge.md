@@ -75,6 +75,7 @@ Nih,coba liat VPN yang kamu suka di list ini
 | [OpenVPN](https://openvpn.net) | Open source | Disediakan oleh individu | ? |
 | [ExpressVPN](https://expressvpn.com) | Cepat | Tidak begitu aman dan berbayar | 148? |
 | [Wireguard](https://wireguard.com) | Seperti OpenVPN | Disediakan oleh individu dan [Memperlukan ini(?)](https://www.vpngate.net/en/download.aspx) | ? |
+| [Softether](https://www.vpngate.net/en/download.aspx) | Seperti OpenVPN(?) | Disediakan oleh individu | ? |
 
 ## Memilih DNS yang tepat
 Nih,list DNS yang bisa dipakai
@@ -267,6 +268,8 @@ Suggest Aplikasi DNS
 Memberi lebih banyak informasi DoH (curl)
 ### <a href="https://t.me/andreas_ding2"><img src="https://cdn5.telegram-cdn.org/file/Isxa-TR9dAqO9VO7qR2FXKcoaI3Dws4FxdXmOaNGrhKHDzvBmMwQ13O2cAHpaXq7ElgxdN7Fj1JfKWy61qcAxheQBCN_ejeeifeMvuTvwGSxTya0pCK3qcrujhGEo2n0ee-CRkhnOCfX36ueq1JRMym1N8e2j0dC3ebQDcHMkxdAJ4YI1aYVGKOtqWB2mUEuQO49wn4uZ2icSe7IANLyJuWdThsxoOrJlHGOxv-8ENSrfBy_3EZKvxwf0JF3AxIksCRgUyDMERWMstn19Jfdh19qtU_7cqx9M9qhrfN_HrX1E1b-LD32lGy3XE50epuD9efPvJYHgi_8yEIo4mZ6aA.jpg" width="50px" /></a> A\ndreas\Ding 🇺🇦🇷🇺
 Suggest aplikasi DNS
+
+Suggest VPN
 ### <a href="https://github.com/RacBallonMC"><img src="https://github.com/racballonmc.png" width="50px" /></a> RacBallonMC
 Fix cloudflare DNS
 ### <a href="https://privacytools.io"><img src="https://www.privacytools.io/img/logo.svg" width="300px" /></a>
