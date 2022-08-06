@@ -15,7 +15,7 @@
   - [Aplikasi² DNS](#aplikasi-aplikasi-dns)
   - [Cara mengganti DNS](#cara-mengganti-dns)
 
-- Cara unblok dengan menghilangkan DPI
+- [Aplikasi² untuk menghilangkan DPI](#aplikasi-aplikasi-untuk-menghilangkan-dpi)
 
 - Cara unblok memakai Filehost
 
@@ -110,22 +110,20 @@ Aplikasi² DNS ini bisa buat memakai DNS lebih senang
 ## Cara mengganti DNS
 Nah,tu udah ada List DNS,gimana makenya?
 
-<details><summary><h3>Di Android</h3></summary>
+### Di Android
 1.Settings>Other Wireless Connections>Private DNS
 
 2.Masukkan [hostname dns](#memilih-dns-yang-tepat) dan pencet Save
-</details>
 
-<details><summary><h3>Di iOS</h3></summary>
+### Di iOS
 
 1.Settings>Wi-Fi>*wifi*
 
 2.Ketuk ikon (i)
 
 3.Ganti IP Adress jadi Static dan masukkan [hostname dns](#memilih-dns-yang-tepat) di kolom DNS
-</details>
 
-<details><summary><h3>Di Windows</h3></summary>
+### Di Windows
 1.Control Panel>Network and Internet>Network and Sharing Center>Connections>Properties
 
 2.Pencet Internet Protocol Version 4 (TCP/IPv4) 2 kali
@@ -133,15 +131,13 @@ Nah,tu udah ada List DNS,gimana makenya?
 3.Ganti "Obtain DNS server address automatically" ke "Use the following DNS server addresses"
 
 4.Masukkan [hostname dns](#memilih-dns-yang-tepat) di kolom DNS dan pencet Ok
-</details>
 
-<details><summary><h3>Di macOS</h3></summary>
+### Di macOS
 1.System Preferences>Network>Wi-Fi>Advanced>DNS
 
 2.Pencet tombol “+” dan masukkan [hostname dns](#memilih-dns-yang-tepat) di kolom DNS,pencet Ok dan Apply
-</details>
 
-<details><summary><h3>Di Linux</h3></summary>
+### Di Linux
 1.Buka Terminal
 
 2.nano /etc/resolv.conf
@@ -150,26 +146,58 @@ Nah,tu udah ada List DNS,gimana makenya?
 >nameserver [hostname dns](#memilih-dns-yang-tepat)
 
 >nameserver [hostname dns](#memilih-dns-yang-tepat)
-</details>
 
-<details><summary><h3>Di Chromium</h3></summary>
+### Di Chromium
 1.Settings>Privacy and Security
   
 2.Masukin [hostname dns](#memilih-dns-yang-tepat) di kolom DNS
-</details>
 
-<details><summary><h3>Di Firefox</h3></summary>
+### Di Firefox
 1.Settings>Network Settings
   
 2.Masukin [hostname dns](#memilih-dns-yang-tepat) di kolom DNS
-</details>
+
+## Aplikasi-Aplikasi untuk menghilangkan DPI
+Sekarang banyak [ISP](#memilih-isp-yang-tidak-ketat) blokirnya itu dengan Deep packet inspection,tapi DPI bisa dihilangkan dengan mudah dengan aplikasi² ini
+
+1.[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) [Windows]
+> Aplikasi CLI untuk hilangkan DPI
+
+2.[GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) [Windows,macOS,Linux]
+> Aplikasi yang ada GUI untuk hilangkan DPI
+
+3.[PowerTunnel](https://github.com/krlvm/PowerTunnel) [Windows,[Android](https://github.com/krlvm/PowerTunnel-Android)]
+> Aplikasi yang ada GUI untuk hilangkan DPI (2)
+
+4.[SNI-Mask](https://github.com/macronut/SNI-Mask) [Windows]
+>proxy untuk menghilangkan DPI
+
+5.[Accesser](https://github.com/URenko/Accesser) [Windows]
+>solving SNI RST
+
+6.[GhosTCP](https://github.com/macronut/ghostcp) [Windows]
+>Mengamankan koneksi TCP
+
+7.[sniffjoke](https://github.com/vecna/sniffjoke) [Linux]
+>Mengamankan wiretap/sniff/IDS
+
+8.[SpoofDPI](https://github.com/xvzc/SpoofDPI) [macOS,Linux]
+>DPI Spoofer
+
+9.[Zapret](https://github.com/bol-van/zapret/blob/master/docs/readme.eng.md) [Linux]
+>DPI Circumvention Tool
+
+10.[DPITunnel](https://github.com/zhenyolka/DPITunnel-cli) [Linux,[Android](https://github.com/zhenyolka/DPITunnel-android)]
+>CLI untuk Linux
 
 ### kominfudge main roadmap:
 - [x] Navigasi: Change might happen
 - [x] Top picks
 - [x] ISP
 - [x] DNS
-- [ ] DPI
+- [x] DPI
 - [ ] Filehost
 - [x] VPN
-- [ ] kredit: Kazuhot,lepz0r,Redacted for Privacy,PrivacytoolsIO,A\ndreas\Ding 🇺🇦🇷🇺
+- [ ] kredit: Kazuhot,lepz0r,ZEROEX5,PrivacytoolsIO,A\ndreas\Ding 🇺🇦🇷🇺,RacBallonMc
+
+silahkan kalau mau pull request
