@@ -137,18 +137,26 @@ Nah,tu udah ada List DNS,gimana makenya?
 3.Ganti IP Adress jadi Static dan masukkan [hostname dns](#memilih-dns-yang-tepat) di kolom DNS
 
 ### Di Windows
-## Windows 10 dan dibawahnya
+#### Windows 10 dan dibawahnya
 1.Control Panel>Network and Internet>Network and Sharing Center>Connections>Properties
+
 2.Pencet Internet Protocol Version 4 (TCP/IPv4) 2 kali
+
 3.Ganti "Obtain DNS server address automatically" ke "Use the following DNS server addresses"
+
 4.Masukkan [hostname dns](#memilih-dns-yang-tepat) di kolom DNS dan pencet Ok
 
-## Untuk Windows 11
+#### Windows 11
 1. Buka Settings di Windows 11, Pergi ke Network & Internet dan pilih Properties
+
 2. Dibagian DNS server assignment, klik tombol Edit
+
 3. Ganti Automatic menjadi Manual
+
 4. di Prefered DNS, masukan 1.1.1.1 dan di Alternate masukan 8.8.8.8
+
 5. di Prefered dan Alternate DNS Encryption, pilih opsi Encrypted only (DNS-over-HTTPS)
+
 6. Klik Save
 
 ### Di macOS
@@ -261,8 +269,10 @@ Nah,filenya ada...sekarang apa?
 4.Pencet "Select Host File" dan pencet file yang kamu buat
 
 ## Kredit
-### <a href="https://discord.com/users/909458647304794164"><img src="https://cdn.discordapp.com/avatars/909458647304794164/a_fb89d242c477ffd123b76a9fe481c72b.gif" width="50px" /></a> Slashy
+### <a href="https://github.com/Kazuhot"><img src="https://github.com/kazuhot.png" width="50px" /></a> Kazuhot
 Provider data ISP
+
+Update tutorial DNS
 
 Kebanjiran fakta 😭
 ### <a href="https://github.com/lepz0r"><img src="https://github.com/lepz0r.png" width="50px" /></a> lepz0r
@@ -273,7 +283,7 @@ Suggest VPN + DNS
 Suggest ganti Layout DNS
 
 Memberi informasi DoH
-### ZEROEX5
+### <a href="https://t.me/ZeroExa"><img src="https://cdn5.telegram-cdn.org/file/EBLahx5E3LtoYchJMRhPkR58ozhX-9PWWPHi_9c1uE8QZbMwNTGrpbLDM_xkpg6tlScvthh-5Sd-yIqanFYj7So1Z1cURQ12UNm6TLB37NWdad3fh9JONGu-7vrp8I2Hxs7oCevg8b1qYSFd-sh4kzjg7Q1yCEa_fq70D8QKOtuo3InAcoTc5x_yEVRLX_x9tLITkTb6ZNFosUEB-_LilagRob3EPQmWgy_10OiEzlOVT-24Kbeobho78GygXGrQNL5kYCakM6o2Set7Ic7JxJGiaEyIzE-iXWacZaOIOsocJlr-Fr7sm3Wuwpj56dxS6Q_mTer6zSZhFZ9VaCL_fw.jpg" width="50px" /></a> ZEROEX5
 Suggest DNS + VPN
 
 Suggest Aplikasi DNS
