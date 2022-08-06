@@ -1,6 +1,6 @@
-<h1 align="center">W.I.P JANGAN LIAT2</h1>
-
-![kom alt ><](https://cdn.discordapp.com/attachments/973116913045602334/1004377183902507079/kom.png)
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/973116913045602334/1004377183902507079/kom.png" width="500">
+</p>
 <p align="center">Karna Kominfo ngeblok situs,ayo kita unblok lagi</p>
 
 ### Navigasi
@@ -19,6 +19,8 @@
 
 - [List Filehost](#list-host-file)
   - [Cara unblok memakai Filehost](#cara-unblok-memakai-filehost)
+
+- [Kredit](#kredit)
 
 ## Pilihan Tertinggi
 
@@ -81,9 +83,10 @@ Nih,list DNS yang bisa dipakai
 | Quad9 | `9.9.9.9` | `149.112.112.112` | `2620:fe::fe` | `2620:fe::9` | `dns.quad9.net/dns-query` | `tls://dns.quad9.net` |
 | [AhaDNS](https://blitz-setup.ahadns.com) | ? | ? | ? | ? | ? | ? |
 | BlahDNS | `45.91.92.121`  | X | `2a0e:dc0:6:23::2` | X | `doh-ch.blahdns.com/dns-query` | `dot-ch.blahdns.com` |
-| [RethinkDNS](https://www.rethinkdns.com/configure) | ? | ? | ? | ? | ? | ? |
+| [RethinkDNS](https://rethinkdns.com/configure) | ? | ? | ? | ? | ? | ? |
 | NextDNS | `45.90.28.233` | `45.90.30.233` | `2a07:a8c0::c1:15a7` | `2a07:a8c1::c1:15a7` | `dns.nextdns.io/c115a7` | `c115a7.dns.nextdns.io` |
 | LibreDNS | `116.202.176.26` | X | X | X | `doh.libredns.gr/dns-query`  | `dot.libredns.gr` |
+| [ControlD](https://controld.com/free-dns) | ? | ? | ? | ? | ? | ? |
 
 ## Aplikasi-Aplikasi DNS
 Aplikasi² DNS ini bisa buat memakai DNS lebih senang
@@ -234,15 +237,33 @@ Nah,filenya ada...sekarang apa?
 
 4.Pencet "Select Host File" dan pencet file yang kamu buat
 
-5.Selesai!
-### kominfudge main roadmap:
-- [x] Navigasi: Change might happen
-- [x] Top picks
-- [x] ISP
-- [x] DNS
-- [x] DPI
-- [x] Filehost
-- [x] VPN
-- [ ] kredit: Kazuhot,lepz0r,ZEROEX5,PrivacytoolsIO,A\ndreas\Ding 🇺🇦🇷🇺,RacBallonMc
+## Kredit
+### <a href="https://discord.com/users/909458647304794164"><img src="https://cdn.discordapp.com/avatars/909458647304794164/a_fb89d242c477ffd123b76a9fe481c72b.gif" width="50px" /></a> Slashy
+Provider data ISP
+### <a href="https://github.com/lepz0r"><img src="https://github.com/lepz0r.png" width="50px" /></a> lepz0r
+Mengganti layout data ISP
 
-silahkan kalau mau pull request
+Suggest VPN + DNS
+
+Suggest ganti Layout DNS
+
+Memberi informasi DoH
+### ZEROEX5
+Suggest DNS + VPN
+
+Suggest Aplikasi DNS
+
+Memberi lebih banyak informasi DoH (curl)
+### A\ndreas\Ding 🇺🇦🇷🇺
+Suggest aplikasi DNS
+### <a href="https://github.com/RacBallonMC"><img src="https://github.com/racballonmc.png" width="50px" /></a> RacBallonMC
+Fix cloudflare DNS
+### <a href="https://privacytools.io"><img src="https://www.privacytools.io/img/logo.svg" width="300px" /></a>
+Provider data VPN + Aplikasi DNS
+### <a href="https://bebasid.com"><img src="https://github.com/bebasid/bebasid/blob/master/dev/resources/logo-black.png" width="69px" /></a> bebasid
+Provider dokumen
+
+# Mau nambah sesuatu di list?
+silahkan pull request atau ping saya di server discord bebasid (.Me.)
+
+setiap perubahan itu penting walaupun sekecil ~kontolmu~
