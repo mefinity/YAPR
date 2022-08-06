@@ -17,7 +17,8 @@
 
 - [Aplikasi² untuk menghilangkan DPI](#aplikasi-aplikasi-untuk-menghilangkan-dpi)
 
-- Cara unblok memakai Filehost
+- [List Filehost](#list-host-file)
+  - [Cara unblok memakai Filehost](#cara-unblok-memakai-filehost)
 
 ## Pilihan Tertinggi
 
@@ -65,9 +66,10 @@ Nih,coba liat VPN yang kamu suka di list ini
 | :---: | :---: | :---: | :---: |
 | [Mullvad](https://mullvad.net/) | VPN Berbayar yang aman | Berbayar | 867 |
 | [ProtonVPN](https://protonvpn.com) | VPN "gratis" yang "aman" | Tidak ada Split-tunneling di sub gratis | 100 |
-| [Windscribe](https://windscribe.com/) | Ada Split-tunneling & banyak fitur lainnya | 15GB per bulan dan [ini](https://arstechnica.com/gadgets/2021/07/vpn-servers-seized-by-ukrainian-authorities-werent-encrypted) | ~15 |
+| [Windscribe](https://windscribe.com) | Ada Split-tunneling & banyak fitur lainnya | 15GB per bulan dan [ini](https://arstechnica.com/gadgets/2021/07/vpn-servers-seized-by-ukrainian-authorities-werent-encrypted) | ~15 |
 | [IVPN](https://ivpn.net) | VPN yang fokusnya itu privasi | Berbayar | 77 |
 | [OpenVPN](https://openvpn.net) | Open source | Disediakan oleh individual | ? |
+| [ExpressVPN](https://expressvpn.com) | Cepat | Tidak begitu aman dan berbayar | 148? |
 
 ## Memilih DNS yang tepat
 Nih,list DNS yang bisa dipakai
@@ -190,13 +192,56 @@ Sekarang banyak [ISP](#memilih-isp-yang-tidak-ketat) blokirnya itu dengan Deep p
 10.[DPITunnel](https://github.com/zhenyolka/DPITunnel-cli) [Linux,[Android](https://github.com/zhenyolka/DPITunnel-android)]
 >CLI untuk Linux
 
+## List Host file
+
+| List | Alternatif |
+| :---: | :---: |
+| [bebasid](https://raw.githubusercontent.com/bebasid/bebasid/master/releases/hosts) |
+| [mul14](https://gist.githubusercontent.com/mul14/eb05e88fcec5bb195cbb/raw/611c0693c460fc5bd7037c6d9d43fa6c0ce4fd7c/hosts) |
+| [tumblr](https://gist.github.com/mul14/eb05e88fcec5bb195cbb?permalink_comment_id=2556197#gistcomment-2556197) |
+| [Netflix](https://gist.github.com/mul14/eb05e88fcec5bb195cbb?permalink_comment_id=3235083#gistcomment-3235083) | [2](https://gist.github.com/mul14/eb05e88fcec5bb195cbb?permalink_comment_id=3324456#gistcomment-3324456) |
+| [nhentai](https://gist.github.com/mul14/eb05e88fcec5bb195cbb?permalink_comment_id=3324461#gistcomment-3324461) |
+| [Binance](https://gist.github.com/mul14/eb05e88fcec5bb195cbb?permalink_comment_id=3727848#gistcomment-3727848) |
+| [Reddit](https://gist.github.com/mul14/eb05e88fcec5bb195cbb?permalink_comment_id=3878656#gistcomment-3878656) |
+| [Steam](https://gist.github.com/mul14/eb05e88fcec5bb195cbb?permalink_comment_id=4250815#gistcomment-4250815) |
+
+## Cara unblok memakai Filehost
+Nah,filenya ada...sekarang apa?
+
+### Di Windows
+
+1.Salin text didalam hostfile yang kamu pilih
+
+2.Buka File Explorer dan pergi ke `C:\Windows\System32\drivers\etc`
+
+3.Paste text ke file "host"
+
+### Di Android
+
+#### ROOT:
+1.Salin text didalam hostfile yang kamu pilih
+
+2.Buka File Explorer dan pergi ke `/system/etc`
+
+3.Paste text ke file "host"
+
+#### NON-ROOT:
+1.Salin text didalam hostfile yang kamu pilih
+
+2.Buat file dan paste textnya didalam file itu
+
+3.Install [Virtual Hosts](https://github.com/x-falcon/Virtual-Hosts)
+
+4.Pencet "Select Host File" dan pencet file yang kamu buat
+
+5.Selesai!
 ### kominfudge main roadmap:
 - [x] Navigasi: Change might happen
 - [x] Top picks
 - [x] ISP
 - [x] DNS
 - [x] DPI
-- [ ] Filehost
+- [x] Filehost
 - [x] VPN
 - [ ] kredit: Kazuhot,lepz0r,ZEROEX5,PrivacytoolsIO,A\ndreas\Ding 🇺🇦🇷🇺,RacBallonMc
 
