@@ -114,9 +114,14 @@ Aplikasi² DNS ini bisa buat memakai DNS lebih senang
 7.[RethinkDNS](https://rethinkdns.com) [Android]
 >Aplikasi untuk mengganti DNS dengan mudah...lagi
 
+8.[Intra](https://getintra.org) [Android]
+>dan lagi.........
+
 ## Cara mengganti DNS
 Nah,tu udah ada List DNS,gimana makenya?
 > kategori ini hanya berlaku untuk ISP yang tidak memakai DNS Nasional
+
+> Bagi ISP yang pake DNS Nasional: ganti DNS nya pake DNScrypt (Windows,macOS,Linux), Intra dan setting DNS Pribadi (Android) 
 
 ### Di Android
 1.Settings>Other Wireless Connections>Private DNS
@@ -243,6 +248,8 @@ Nah,filenya ada...sekarang apa?
 ## Kredit
 ### <a href="https://discord.com/users/909458647304794164"><img src="https://cdn.discordapp.com/avatars/909458647304794164/a_fb89d242c477ffd123b76a9fe481c72b.gif" width="50px" /></a> Slashy
 Provider data ISP
+
+Kebanjiran fakta 😭
 ### <a href="https://github.com/lepz0r"><img src="https://github.com/lepz0r.png" width="50px" /></a> lepz0r
 Mengganti layout data ISP
 
