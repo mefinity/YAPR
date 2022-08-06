@@ -18,11 +18,10 @@
   - [Cara mengganti DNS](#cara-mengganti-dns)
 
 - [Aplikasi² untuk menghilangkan DPI](#aplikasi-aplikasi-untuk-menghilangkan-dpi)
+  - [Trik untuk bypass DPI tanpa aplikasi](#trik-untuk-bypass-dpi-tanpa-aplikasi)
 
 - [List Filehost](#list-host-file)
   - [Cara unblok memakai Filehost](#cara-unblok-memakai-filehost)
-
-- [Trik untuk bypass DPI tanpa aplikasi](#trik-untuk-bypass-dpi-tanpa-aplikasi)
 
 - [Kredit](#kredit)
 
@@ -210,6 +209,12 @@ Sekarang banyak [ISP](#memilih-isp-yang-tidak-ketat) blokirnya itu dengan Deep p
 11.[Geneva](https://github.com/kkevsterrr/geneva) [Linux]
 >DPI Circumvention Tool berbasis AI
 
+## Trik untuk bypass DPI tanpa aplikasi
+
+### Di Linux
+#### Drop TCP RST
+Jalankan perintah `sudo iptables -I INPUT -p tcp --tcp-flags ALL RST,ACK -j DROP` di terminal
+
 ## List Host file
 
 | List | Alternatif |
@@ -251,12 +256,6 @@ Nah,filenya ada...sekarang apa?
 3.Install [Virtual Hosts](https://github.com/x-falcon/Virtual-Hosts)
 
 4.Pencet "Select Host File" dan pencet file yang kamu buat
-
-## Trik untuk bypass DPI tanpa aplikasi
-
-### Di Linux
-#### Drop TCP RST
-Jalankan perintah `sudo iptables -I INPUT -p tcp --tcp-flags ALL RST,ACK -j DROP` di terminal
 
 ## Kredit
 ### <a href="https://discord.com/users/909458647304794164"><img src="https://cdn.discordapp.com/avatars/909458647304794164/a_fb89d242c477ffd123b76a9fe481c72b.gif" width="50px" /></a> Slashy
