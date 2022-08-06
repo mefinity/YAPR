@@ -74,7 +74,7 @@ Nih,coba liat VPN yang kamu suka di list ini
 | [IVPN](https://ivpn.net) | VPN yang fokusnya itu privasi | Berbayar | 77 |
 | [OpenVPN](https://openvpn.net) | Open source | Disediakan oleh individu | ? |
 | [ExpressVPN](https://expressvpn.com) | Cepat | Tidak begitu aman dan berbayar | 148? |
-| [Wireguard](https://wireguard.com) | Seperti OpenVPN | Disediakan oleh individu dan [Memperlukan ini(?)](https://www.vpngate.net/en/download.aspx) | ? |
+| [Wireguard](https://wireguard.com) | Seperti OpenVPN | Disediakan oleh individu | ? |
 | [Softether](https://www.vpngate.net/en/download.aspx) | Seperti OpenVPN(?) | Disediakan oleh individu | ? |
 
 ## Memilih DNS yang tepat
