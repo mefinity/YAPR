@@ -122,9 +122,6 @@ Aplikasi² DNS ini bisa buat memakai DNS lebih senang
 
 ## Cara mengganti DNS
 Nah,tu udah ada List DNS,gimana makenya?
-> kategori ini hanya berlaku untuk ISP yang tidak memakai DNS Nasional
-
-> Bagi ISP yang pake DNS Nasional: ganti DNS nya pake DNScrypt (Windows,macOS,Linux), Intra dan setting DNS Pribadi (Android) 
 
 ### Di Android
 1.Settings>Other Wireless Connections>Private DNS
@@ -140,13 +137,19 @@ Nah,tu udah ada List DNS,gimana makenya?
 3.Ganti IP Adress jadi Static dan masukkan [hostname dns](#memilih-dns-yang-tepat) di kolom DNS
 
 ### Di Windows
+## Windows 10 dan dibawahnya
 1.Control Panel>Network and Internet>Network and Sharing Center>Connections>Properties
-
 2.Pencet Internet Protocol Version 4 (TCP/IPv4) 2 kali
-
 3.Ganti "Obtain DNS server address automatically" ke "Use the following DNS server addresses"
-
 4.Masukkan [hostname dns](#memilih-dns-yang-tepat) di kolom DNS dan pencet Ok
+
+## Untuk Windows 11
+1. Buka Settings di Windows 11, Pergi ke Network & Internet dan pilih Properties
+2. Dibagian DNS server assignment, klik tombol Edit
+3. Ganti Automatic menjadi Manual
+4. di Prefered DNS, masukan 1.1.1.1 dan di Alternate masukan 8.8.8.8
+5. di Prefered dan Alternate DNS Encryption, pilih opsi Encrypted only (DNS-over-HTTPS)
+6. Klik Save
 
 ### Di macOS
 1.System Preferences>Network>Wi-Fi>Advanced>DNS
