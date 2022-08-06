@@ -72,8 +72,9 @@ Nih,coba liat VPN yang kamu suka di list ini
 | [ProtonVPN](https://protonvpn.com) | VPN "gratis" yang "aman" | Tidak ada Split-tunneling di sub gratis | 100 |
 | [Windscribe](https://windscribe.com) | Ada Split-tunneling & banyak fitur lainnya | 15GB per bulan dan [ini](https://arstechnica.com/gadgets/2021/07/vpn-servers-seized-by-ukrainian-authorities-werent-encrypted) | ~15 |
 | [IVPN](https://ivpn.net) | VPN yang fokusnya itu privasi | Berbayar | 77 |
-| [OpenVPN](https://openvpn.net) | Open source | Disediakan oleh individual | ? |
+| [OpenVPN](https://openvpn.net) | Open source | Disediakan oleh individu | ? |
 | [ExpressVPN](https://expressvpn.com) | Cepat | Tidak begitu aman dan berbayar | 148? |
+| [Wireguard](https://wireguard.com) | Seperti OpenVPN | Disediakan oleh individu dan [Memperlukan ini(?)](https://www.vpngate.net/en/download.aspx) | ? |
 
 ## Memilih DNS yang tepat
 Nih,list DNS yang bisa dipakai
