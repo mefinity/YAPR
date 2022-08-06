@@ -264,14 +264,14 @@ Suggest DNS + VPN
 Suggest Aplikasi DNS
 
 Memberi lebih banyak informasi DoH (curl)
-### A\ndreas\Ding 🇺🇦🇷🇺
+### <a href="https://t.me/andreas_ding2"><img src="https://cdn5.telegram-cdn.org/file/Isxa-TR9dAqO9VO7qR2FXKcoaI3Dws4FxdXmOaNGrhKHDzvBmMwQ13O2cAHpaXq7ElgxdN7Fj1JfKWy61qcAxheQBCN_ejeeifeMvuTvwGSxTya0pCK3qcrujhGEo2n0ee-CRkhnOCfX36ueq1JRMym1N8e2j0dC3ebQDcHMkxdAJ4YI1aYVGKOtqWB2mUEuQO49wn4uZ2icSe7IANLyJuWdThsxoOrJlHGOxv-8ENSrfBy_3EZKvxwf0JF3AxIksCRgUyDMERWMstn19Jfdh19qtU_7cqx9M9qhrfN_HrX1E1b-LD32lGy3XE50epuD9efPvJYHgi_8yEIo4mZ6aA.jpg" width="50px" /></a> A\ndreas\Ding 🇺🇦🇷🇺
 Suggest aplikasi DNS
 ### <a href="https://github.com/RacBallonMC"><img src="https://github.com/racballonmc.png" width="50px" /></a> RacBallonMC
 Fix cloudflare DNS
 ### <a href="https://privacytools.io"><img src="https://www.privacytools.io/img/logo.svg" width="300px" /></a>
 Provider data VPN + Aplikasi DNS
 ### <a href="https://bebasid.com"><img src="https://github.com/bebasid/bebasid/blob/master/dev/resources/logo-black.png" width="69px" /></a> bebasid
-Provider dokumen
+dokumen-dokumen berguna
 
 # Mau nambah sesuatu di list?
 silahkan pull request atau ping saya di server discord bebasid (.Me.)
