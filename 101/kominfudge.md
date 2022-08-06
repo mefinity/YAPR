@@ -179,7 +179,7 @@ Sekarang banyak [ISP](#memilih-isp-yang-tidak-ketat) blokirnya itu dengan Deep p
 2.[GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) [Windows,macOS,Linux]
 > Aplikasi yang ada GUI untuk hilangkan DPI
 
-3.[PowerTunnel](https://github.com/krlvm/PowerTunnel) [Windows,[Android](https://github.com/krlvm/PowerTunnel-Android)]
+3.[PowerTunnel](https://github.com/krlvm/PowerTunnel) [Windows,macOS,Linux,[Android](https://github.com/krlvm/PowerTunnel-Android)]
 > Aplikasi yang ada GUI untuk hilangkan DPI (2)
 
 4.[SNI-Mask](https://github.com/macronut/SNI-Mask) [Windows]
