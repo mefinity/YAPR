@@ -199,11 +199,17 @@ Sekarang banyak [ISP](#memilih-isp-yang-tidak-ketat) blokirnya itu dengan Deep p
 8.[SpoofDPI](https://github.com/xvzc/SpoofDPI) [macOS,Linux]
 >DPI Spoofer
 
-9.[Zapret](https://github.com/bol-van/zapret/blob/master/docs/readme.eng.md) [Linux]
+9.[Zapret](https://github.com/bol-van/zapret/blob/master/docs/readme.eng.md) [Linux, FreeBSD]
 >DPI Circumvention Tool
 
 10.[DPITunnel](https://github.com/zhenyolka/DPITunnel-cli) [Linux,[Android](https://github.com/zhenyolka/DPITunnel-android)]
 >CLI untuk Linux
+
+11.[Geneva](https://github.com/kkevsterrr/geneva) [Linux]
+>DPI Circumvention Tool berbasis AI
+
+12.Drop TCP RST dengan iptables [Linux]
+>Dapat digunakan tanpa aplikasi tambahan dengan menggunakan perintah `sudo iptables -I INPUT -p tcp --tcp-flags ALL RST,ACK -j DROP`
 
 ## List Host file
 
