@@ -3,6 +3,8 @@
 </p>
 <p align="center">Karna Kominfo ngeblok situs,ayo kita unblok lagi</p>
 
+>DISCLAIMER: kominfudge tidak bertanggung jawab atas kerusakan perangkat anda,ambil dengan risiko anda sendiri
+
 ### Navigasi
 
 - [Pilihan Tertinggi](#pilihan-tertinggi)
@@ -47,11 +49,11 @@ ISP adalah provider Internetmu,list ini akan buat kamu lebih tau bagaimana ISP²
 | MNC | DNS | Tidak |
 | PT Remala Abadi | DNS | Tidak |
 | PT iForte Global internet | DNS | Tidak |
-| lconnect PLN | Tidak | Ya |
+| lconnect PLN | DNS | Ya |
 | Telkomsel | DNS Nasional | Ya |
 | XL | DNS Nasional | Ya |
 | 3 | DNS Nasional | Ya |
-| Indosat | Tidak | Ya |
+| Indosat | DNS | Ya |
 | Smartfren | DNS Nasional | Ya |
 | PT Cipta Informatika Cemeriang | DNS | Tidak |
 | Oxygen | DNS Nasional | Tidak |
@@ -114,6 +116,7 @@ Aplikasi² DNS ini bisa buat memakai DNS lebih senang
 
 ## Cara mengganti DNS
 Nah,tu udah ada List DNS,gimana makenya?
+> kategori ini hanya berlaku untuk ISP yang tidak memakai DNS Nasional
 
 ### Di Android
 1.Settings>Other Wireless Connections>Private DNS
