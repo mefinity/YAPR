@@ -172,14 +172,15 @@ Nah,tu udah ada List DNS,gimana makenya?
 ### Di Linux
 1.Buka Terminal
 
-2.nano /etc/resolv.conf
+2.Jalankan perintah `nano /etc/resolv.conf` untuk mengedit file `/etc/resolv.conf`
 
-3.
->nameserver [hostname dns](#memilih-dns-yang-tepat)
+3.Ubah isi file menjadi seperti berikut (ganti `<hostname dns>` menjadi [salah satu hostname dns](#memilih-dns-yang-tepat))
+```
+nameserver <hostname dns>
+nameserver <hostname dns>
+```
 
->nameserver [hostname dns](#memilih-dns-yang-tepat)
-
-### Di Chromium
+### Di browser berbasis Chromium
 1.Settings>Privacy and Security
   
 2.Masukin [hostname dns](#memilih-dns-yang-tepat) di kolom DNS
@@ -190,7 +191,7 @@ Nah,tu udah ada List DNS,gimana makenya?
 2.Masukin [hostname dns](#memilih-dns-yang-tepat) di kolom DNS
 
 ## Aplikasi-Aplikasi untuk menghilangkan DPI
-Sekarang banyak [ISP](#memilih-isp-yang-tidak-ketat) blokirnya itu dengan Deep packet inspection,tapi DPI bisa dihilangkan dengan mudah dengan aplikasi² ini
+Sekarang banyak [ISP](#memilih-isp-yang-tidak-ketat) blokirnya itu dengan Deep packet inspection,tapi DPI bisa dihilangkan dengan mudah dengan aplikasi² ini, jangan lupa untuk mengganti DNS terlebih dahulu dengan [aplikasi untuk menggunakan DNS](#aplikasi-aplikasi-dns) apabila ISP juga menggunakan DNS untuk pemblokiran
 
 1.[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) [Windows]
 > Aplikasi CLI untuk hilangkan DPI
@@ -204,7 +205,7 @@ Sekarang banyak [ISP](#memilih-isp-yang-tidak-ketat) blokirnya itu dengan Deep p
 4.[SNI-Mask](https://github.com/macronut/SNI-Mask) [Windows]
 >proxy untuk menghilangkan DPI
 
-5.[Accesser](https://github.com/URenko/Accesser) [Windows]
+5.[Accesser](https://github.com/URenko/Accesser) [Windows,macOS,Linux]
 >solving SNI RST
 
 6.[GhosTCP](https://github.com/macronut/ghostcp) [Windows]
@@ -229,7 +230,8 @@ Sekarang banyak [ISP](#memilih-isp-yang-tidak-ketat) blokirnya itu dengan Deep p
 
 ### Di Linux
 #### Drop TCP RST
-Jalankan perintah `sudo iptables -I INPUT -p tcp --tcp-flags ALL RST,ACK -j DROP` di terminal
+Jalankan perintah `sudo iptables -I INPUT -p tcp --tcp-flags ALL RST,ACK -j DROP` di terminal\
+Tetapi perintah diatas tidak akan bekerja apabila ISP juga mengirim paket TCP RST ke server
 
 ## List Host file
 
@@ -287,6 +289,8 @@ Suggest VPN + DNS
 
 Suggest ganti Layout DNS
 
+Update tutorial
+
 Memberi informasi DoH
 ### <a href="https://t.me/ZeroExa"><img src="https://cdn5.telegram-cdn.org/file/EBLahx5E3LtoYchJMRhPkR58ozhX-9PWWPHi_9c1uE8QZbMwNTGrpbLDM_xkpg6tlScvthh-5Sd-yIqanFYj7So1Z1cURQ12UNm6TLB37NWdad3fh9JONGu-7vrp8I2Hxs7oCevg8b1qYSFd-sh4kzjg7Q1yCEa_fq70D8QKOtuo3InAcoTc5x_yEVRLX_x9tLITkTb6ZNFosUEB-_LilagRob3EPQmWgy_10OiEzlOVT-24Kbeobho78GygXGrQNL5kYCakM6o2Set7Ic7JxJGiaEyIzE-iXWacZaOIOsocJlr-Fr7sm3Wuwpj56dxS6Q_mTer6zSZhFZ9VaCL_fw.jpg" width="50px" /></a> ZEROEX5
 Suggest DNS + VPN
@@ -304,6 +308,12 @@ Fix cloudflare DNS
 Provider data VPN + Aplikasi DNS
 ### <a href="https://bebasid.com"><img src="https://github.com/bebasid/bebasid/blob/master/dev/resources/logo-black.png" width="69px" /></a> bebasid
 dokumen-dokumen berguna
+
+### <a href="https://github.com/neneeen"><img src="https://github.com/neneeen.png" width="50px" /></a> neneeen
+
+Update DNS
+
+Nambah aplikasi DNS
 
 # Mau nambah sesuatu di list?
 silahkan pull request atau ping saya di server discord bebasid (.Me.)
