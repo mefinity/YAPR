@@ -156,8 +156,6 @@ Nah,tu udah ada List DNS,gimana makenya?
 
 6.Jika DNS ISP muncul daripada DNS yang diset, silahkan download DNSCrypt
 
-****
-
 #### Windows 11
 1. Buka Settings di Windows 11, Pergi ke Network & Internet dan pilih Properties
 
@@ -287,6 +285,8 @@ Nah,filenya ada...sekarang apa?
 Provider data ISP
 
 Update tutorial DNS
+
+Obfuscate
 
 Kebanjiran fakta 😭
 ### <a href="https://github.com/lepz0r"><img src="https://github.com/lepz0r.png" width="50px" /></a> lepz0r
