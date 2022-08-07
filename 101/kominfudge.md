@@ -319,3 +319,15 @@ Nambah aplikasi DNS
 silahkan pull request atau ping saya di server discord bebasid (.Me.)
 
 setiap perubahan itu penting walaupun sekecil ~kontolmu~
+
+
+## Gak tau mau nge-add apa tapi masih mau berkontribusi?
+nih gw buatin roadmap lagi :v 
+
+- [ ] Aplikasi Tor
+- [ ] Aplikasi Proxy
+  - [ ] List proxy
+  - [ ] Cara memakai proxy
+- [ ] Nambah DNS
+- [ ] Nambah VPN
+- [ ] [etc](https://en.wikipedia.org/wiki/Internet_censorship_circumvention)
