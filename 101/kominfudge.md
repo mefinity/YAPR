@@ -86,12 +86,14 @@ Nih,list DNS yang bisa dipakai
 | Cloudflare DNS | `1.1.1.1` | `1.0.0.1` | `2606:4700:4700::1111` | `2606:4700:4700::1001` | `cloudflare-dns.com/dns-query`  | `1dot1dot1dot1.cloudflare-dns.com` |
 | Google DNS | `8.8.8.8` | `8.8.4.4` | `2001:4860:4860::8888` | `2001:4860:4860::8844` | `dns.google/dns-query` | `dns.google` |
 | Quad9 | `9.9.9.9` | `149.112.112.112` | `2620:fe::fe` | `2620:fe::9` | `dns.quad9.net/dns-query` | `tls://dns.quad9.net` |
-| [AhaDNS](https://blitz-setup.ahadns.com) | ? | ? | ? | ? | ? | ? |
+| [AhaDNS](https://blitz-setup.ahadns.com) | ? | ? | ? | ? | `blitz.ahadns.com` | ? |
 | BlahDNS | `45.91.92.121`  | X | `2a0e:dc0:6:23::2` | X | `doh-ch.blahdns.com/dns-query` | `dot-ch.blahdns.com` |
-| [RethinkDNS](https://rethinkdns.com/configure) | ? | ? | ? | ? | ? | ? |
-| NextDNS | `45.90.28.233` | `45.90.30.233` | `2a07:a8c0::c1:15a7` | `2a07:a8c1::c1:15a7` | `dns.nextdns.io/c115a7` | `c115a7.dns.nextdns.io` |
+| [RethinkDNS](https://rethinkdns.com/configure) | ? | ? | ? | ? | `basic.rethinkdns.com` | `max.rethinkdns.com` |
+| NextDNS | `45.90.28.233` | `45.90.30.233` | `2a07:a8c0::` | `2a07:a8c0::` | `dns.nextdns.io` | `dns.nextdns.io` |
 | LibreDNS | `116.202.176.26` | X | X | X | `doh.libredns.gr/dns-query`  | `dot.libredns.gr` |
-| [ControlD](https://controld.com/free-dns) | ? | ? | ? | ? | ? | ? |
+| [ControlD](https://controld.com/free-dns) | ? | ? | ? | ? | `freedns.controld.com/p1` | `p1.freedns.controld.com` |
+
+List lebih lengkap bisa dilihat di [KB Adguard](https://adguard-dns.io/kb/general/dns-providers/) dan [Curl wiki](https://github.com/curl/curl/wiki/DNS-over-HTTPS). Bisa juga bikin sendiri dengan [Cloudflare Workers](https://github.com/tina-hello/doh-cf-workers) atau [server sendiri dengan PHP](https://github.com/NotMikeDEV/DoH)
 
 ## Aplikasi-Aplikasi DNS
 Aplikasi² DNS ini bisa buat memakai DNS lebih senang
@@ -119,6 +121,9 @@ Aplikasi² DNS ini bisa buat memakai DNS lebih senang
 
 8.[Intra](https://getintra.org) [Android]
 >dan lagi.........
+
+9.[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) [Windows, macOS, Linux]
+>DNS untuk selfhost dengan adblock, encrypted upstream dan downstream .
 
 ## Cara mengganti DNS
 Nah,tu udah ada List DNS,gimana makenya?
@@ -167,15 +172,14 @@ Nah,tu udah ada List DNS,gimana makenya?
 ### Di Linux
 1.Buka Terminal
 
-2.Jalankan perintah `nano /etc/resolv.conf` untuk mengedit file `/etc/resolv.conf`
+2.nano /etc/resolv.conf
 
-3.Ubah isi file menjadi seperti berikut (ganti `<hostname dns>` menjadi [salah satu hostname dns](#memilih-dns-yang-tepat))
-```
-nameserver <hostname dns>
-nameserver <hostname dns>
-```
+3.
+>nameserver [hostname dns](#memilih-dns-yang-tepat)
 
-### Di browser berbasis Chromium
+>nameserver [hostname dns](#memilih-dns-yang-tepat)
+
+### Di Chromium
 1.Settings>Privacy and Security
   
 2.Masukin [hostname dns](#memilih-dns-yang-tepat) di kolom DNS
@@ -186,7 +190,7 @@ nameserver <hostname dns>
 2.Masukin [hostname dns](#memilih-dns-yang-tepat) di kolom DNS
 
 ## Aplikasi-Aplikasi untuk menghilangkan DPI
-Sekarang banyak [ISP](#memilih-isp-yang-tidak-ketat) blokirnya itu dengan Deep packet inspection,tapi DPI bisa dihilangkan dengan mudah dengan aplikasi² ini, jangan lupa untuk mengganti DNS terlebih dahulu dengan [aplikasi untuk menggunakan DNS](#aplikasi-aplikasi-dns) apabila ISP juga menggunakan DNS untuk pemblokiran
+Sekarang banyak [ISP](#memilih-isp-yang-tidak-ketat) blokirnya itu dengan Deep packet inspection,tapi DPI bisa dihilangkan dengan mudah dengan aplikasi² ini
 
 1.[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) [Windows]
 > Aplikasi CLI untuk hilangkan DPI
@@ -200,7 +204,7 @@ Sekarang banyak [ISP](#memilih-isp-yang-tidak-ketat) blokirnya itu dengan Deep p
 4.[SNI-Mask](https://github.com/macronut/SNI-Mask) [Windows]
 >proxy untuk menghilangkan DPI
 
-5.[Accesser](https://github.com/URenko/Accesser) [Windows,macOS,Linux]
+5.[Accesser](https://github.com/URenko/Accesser) [Windows]
 >solving SNI RST
 
 6.[GhosTCP](https://github.com/macronut/ghostcp) [Windows]
@@ -225,8 +229,7 @@ Sekarang banyak [ISP](#memilih-isp-yang-tidak-ketat) blokirnya itu dengan Deep p
 
 ### Di Linux
 #### Drop TCP RST
-Jalankan perintah `sudo iptables -I INPUT -p tcp --tcp-flags ALL RST,ACK -j DROP` di terminal\
-Tetapi perintah diatas tidak akan bekerja apabila ISP juga mengirim paket TCP RST ke server
+Jalankan perintah `sudo iptables -I INPUT -p tcp --tcp-flags ALL RST,ACK -j DROP` di terminal
 
 ## List Host file
 
