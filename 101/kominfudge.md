@@ -23,6 +23,8 @@
 - [List Filehost](#list-host-file)
   - [Cara unblok memakai Filehost](#cara-unblok-memakai-filehost)
 
+- [Aplikasi² Tor](#aplikasi-aplikasi-tor)
+
 - [Kredit](#kredit)
 
 ## Pilihan Tertinggi
@@ -78,6 +80,7 @@ Nih,coba liat VPN yang kamu suka di list ini
 | [ExpressVPN](https://expressvpn.com) | Cepat | Tidak begitu aman dan berbayar | 148? |
 | [Wireguard](https://wireguard.com) | Seperti OpenVPN | Disediakan oleh individu | ? |
 | [Softether](https://www.vpngate.net/en/download.aspx) | Seperti OpenVPN(?) | Disediakan oleh individu | ? |
+| [Psiphon](https://psiphon.ca) | Open Source | ? | ? |
 
 ## Memilih DNS yang tepat
 Nih,list DNS yang bisa dipakai
@@ -280,8 +283,20 @@ Nah,filenya ada...sekarang apa?
 
 4.Pencet "Select Host File" dan pencet file yang kamu buat
 
+## Aplikasi-Aplikasi Tor
+Nah,ini bagian extrim,memakai Tor
+
+1.[Tor Browser](https://www.torproject.org) [Windows,macOS,Linux,Android]
+>browser officialnya tor
+
+2.[Orbot](https://guardianproject.info/apps/org.torproject.android) [Android]
+>proxy dengan Tor
+
+3.[Onion Browser](https://onionbrowser.com) [iOS]
+>browser tor di iOS
+
 ## Kredit
-### <a href="https://github.com/Kazuhot"><img src="https://github.com/kazuhot.png" width="50px" /></a> Kazuhot
+### <a href="https://example.com"><img src="https://github.com/ghost.png" width="50px" /></a> REDACTED
 Provider data ISP
 
 Update tutorial DNS
@@ -305,7 +320,7 @@ Suggest DNS + VPN
 Suggest Aplikasi DNS
 
 Memberi lebih banyak informasi DoH (curl)
-### <a href="https://t.me/andreas_ding2"><img src="https://cdn5.telegram-cdn.org/file/Isxa-TR9dAqO9VO7qR2FXKcoaI3Dws4FxdXmOaNGrhKHDzvBmMwQ13O2cAHpaXq7ElgxdN7Fj1JfKWy61qcAxheQBCN_ejeeifeMvuTvwGSxTya0pCK3qcrujhGEo2n0ee-CRkhnOCfX36ueq1JRMym1N8e2j0dC3ebQDcHMkxdAJ4YI1aYVGKOtqWB2mUEuQO49wn4uZ2icSe7IANLyJuWdThsxoOrJlHGOxv-8ENSrfBy_3EZKvxwf0JF3AxIksCRgUyDMERWMstn19Jfdh19qtU_7cqx9M9qhrfN_HrX1E1b-LD32lGy3XE50epuD9efPvJYHgi_8yEIo4mZ6aA.jpg" width="50px" /></a> A\ndreas\Ding 🇺🇦🇷🇺
+### <a href="https://t.me/andreas_ding2"><img src="https://cdn5.telegram-cdn.org/file/g5GA0N419exMvXQ4TlRIkqCm_EOmELi1iG2UNbKw328XoKvjFgK-iIUMpgRghiZx5BlgkM6GUy41I8eDiFO3T_T1sk9wC6ieS3lrt7Vqsr0wWwzCCf8jwDfudgxLGMBWs1frylQ9SO8UvBs6aZqcO7N2_rdKdzCp7OXNTmCL4GsJBs_lAfQloJx5rIKRvWNMkKhJsnefKoK0E94lcJ1ZrqV09aUkwzZbclgnHHHmYlu2uFHwpV-t6NE1T2CJ48cex8dC3ZjmzRcy1V3sofDe8vwLsNQrpKZ9vGFQbhFLXFk3KaLwzyLIHLnPHSt616b-2-Q9FIsN1MRkOWfHlVrU1w.jpg" width="50px" /></a> A\ndreas\Ding 🇺🇦🇷🇺
 Suggest aplikasi DNS
 
 Suggest VPN
@@ -331,7 +346,7 @@ setiap perubahan itu penting walaupun sekecil ~kontolmu~
 ## Gak tau mau nge-add apa tapi masih mau berkontribusi?
 nih gw buatin roadmap lagi :v 
 
-- [ ] Aplikasi Tor
+- [x] Aplikasi Tor
 - [ ] Aplikasi Proxy
   - [ ] List proxy
   - [ ] Cara memakai proxy
