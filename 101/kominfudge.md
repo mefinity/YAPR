@@ -41,25 +41,26 @@ ISP adalah provider Internetmu,list ini akan buat kamu lebih tau bagaimana ISP²
 
 | Nama | Pemblokiran menggunakan DNS | Pemblokiran menggunakan DPI |
 | :---: | :---: | :---: |
-| Indihome | DNS Nasional | Ya |
-| CBN | DNS | Tidak |
-| Biznet | DNS Nasional | Tidak |
-| MyRepublic | DNS Nasional | Tidak |
-| FirstMedia | DNS Nasional | Tidak |
-| Megavision | DNS Nasional | Tidak |
-| MNC | DNS | Tidak |
-| PT Remala Abadi | DNS | Tidak |
-| PT iForte Global internet | DNS | Tidak |
-| lconnect PLN | DNS | Ya |
-| Telkomsel | DNS Nasional | Ya |
-| XL | DNS Nasional | Ya |
-| 3 | DNS Nasional | Ya |
-| Indosat | DNS | Ya |
-| Smartfren | DNS Nasional | Ya |
-| PT Cipta Informatika Cemeriang | DNS | Tidak |
-| Oxygen | DNS Nasional | Tidak |
-| Astinet | DNS Nasional | Ya |
-| Lintasarta | DNS Nasional | Tidak |
+| Indihome | Ya | Ya |
+| CBN | Ya | Tidak |
+| Biznet | Ya | Tidak |
+| MyRepublic | Ya | Tidak |
+| FirstMedia | Ya | Tidak |
+| Megavision | Ya | Tidak |
+| MNC | Ya | Tidak |
+| PT Remala Abadi | Ya | Tidak |
+| PT iForte Global internet | Ya | Tidak |
+| lconnect PLN | Ya | Ya |
+| Telkomsel | Ya | Ya |
+| XL | Ya | Ya |
+| 3 | Ya | Ya |
+| Indosat | Ya | Ya |
+| Smartfren | Ya | Ya |
+| PT Cipta Informatika Cemeriang | Ya | Tidak |
+| Oxygen | Ya | Tidak |
+| Astinet | Ya | Ya |
+| Lintasarta | Ya | Tidak |
+| Citranet | Ya | Tidak |
 
 ## Memilih VPN yang aman
 Ah,Virtual Private Network,cara yang tersenang untuk melewati blok
@@ -91,7 +92,7 @@ Nih,list DNS yang bisa dipakai
 | [RethinkDNS](https://rethinkdns.com/configure) | ? | ? | ? | ? | `basic.rethinkdns.com` | `max.rethinkdns.com` |
 | NextDNS | `45.90.28.233` | `45.90.30.233` | `2a07:a8c0::` | `2a07:a8c0::` | `dns.nextdns.io` | `dns.nextdns.io` |
 | LibreDNS | `116.202.176.26` | X | X | X | `doh.libredns.gr/dns-query`  | `dot.libredns.gr` |
-| [ControlD](https://controld.com/free-dns) | ? | ? | ? | ? | `freedns.controld.com/p1` | `p1.freedns.controld.com` |
+| [ControlD](https://controld.com/free-dns) | `76.76.2.2` | `76.76.10.2` | `2606:1a40::2` | `2606:1a40:1::2` | `freedns.controld.com/p1` | `p1.freedns.controld.com` |
 
 List lebih lengkap bisa dilihat di [KB Adguard](https://adguard-dns.io/kb/general/dns-providers/) dan [Curl wiki](https://github.com/curl/curl/wiki/DNS-over-HTTPS). Bisa juga bikin sendiri dengan [Cloudflare Workers](https://github.com/tina-hello/doh-cf-workers) atau [server sendiri dengan PHP](https://github.com/NotMikeDEV/DoH)
 
@@ -151,6 +152,12 @@ Nah,tu udah ada List DNS,gimana makenya?
 
 4.Masukkan [hostname dns](#memilih-dns-yang-tepat) di kolom DNS dan pencet Ok
 
+5.Lalu, cek konfigurasi anda di https://dnsleaktest.com dan klik 'extended test'
+
+6.Jika DNS ISP muncul daripada DNS yang diset, silahkan download DNSCrypt
+
+****
+
 #### Windows 11
 1. Buka Settings di Windows 11, Pergi ke Network & Internet dan pilih Properties
 
@@ -158,9 +165,9 @@ Nah,tu udah ada List DNS,gimana makenya?
 
 3. Ganti Automatic menjadi Manual
 
-4. di Prefered DNS, masukan 1.1.1.1 dan di Alternate masukan 8.8.8.8
+4. di Preferred DNS, masukan 1.1.1.1 dan di Alternate masukan 8.8.8.8
 
-5. di Prefered dan Alternate DNS Encryption, pilih opsi Encrypted only (DNS-over-HTTPS)
+5. di Preferred dan Alternate DNS Encryption, pilih opsi Encrypted only (DNS-over-HTTPS)
 
 6. Klik Save
 
